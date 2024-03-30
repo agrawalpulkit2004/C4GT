@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Pulkit Agrawal</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/agrawalpulkit2004</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/agrawalpulkit2004/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>IIT Kharagpur</td>
+  </tr>
+</table>
